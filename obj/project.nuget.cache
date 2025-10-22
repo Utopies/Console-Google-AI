@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yPpVr1daDuQ=",
+  "success": true,
+  "projectFilePath": "/home/utopies/programming/CSharp/Gemini-AI/Gemini-AI.csproj",
+  "expectedPackageFiles": [
+    "/home/utopies/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.9/microsoft.aspnetcore.app.ref.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
